@@ -1,6 +1,8 @@
 # robRidge
 Robust Ridge Regression Use robRidge (raiseR) With (In) R Software
 
+https://www.youtube.com/watch?v=vTGi2reOdCI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
